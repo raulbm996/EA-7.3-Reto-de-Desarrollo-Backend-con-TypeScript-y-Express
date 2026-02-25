@@ -44,7 +44,6 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <h1>¡Bienvenido a la API de Dinosaurios Extintos! </h1>
-        <p><span class="badge">Powered by MySQL</span></p>
         <p>Este es un catálogo de criaturas prehistóricas increíbles que caminaron sobre la Tierra hace millones de años.</p>
         <p>Para ver los datos, visita: <a href="/api/datos">/api/datos</a></p>
       </body>
